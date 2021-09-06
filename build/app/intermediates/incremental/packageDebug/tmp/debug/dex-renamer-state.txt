@@ -1,0 +1,4 @@
+#Mon Sep 06 10:30:24 CAT 2021
+base.0=/home/shamiso/AndroidStudioProjects/remedies/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
