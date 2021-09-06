@@ -6,7 +6,7 @@ It can be daunting to browse through the internet with the fatigue brought about
 
 This project is made using Flutter.
 
-##Display of the application
+## Display of the application
 
 
 https://user-images.githubusercontent.com/40882579/132222181-3fc03910-b8d0-4d20-9881-1777186c2a14.mp4
